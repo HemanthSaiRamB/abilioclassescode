@@ -1,0 +1,24 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+    align-items: center;
+    gap: 4px;
+    width: auto;
+}
+
+.navItem {
+    display: flex;
+    width: auto;
+    gap: 5px
+}
+
+.btn {
+    cursor: pointer;
+    align-self: flex-start;
+}
+
+.lnk {
+    cursor: pointer;
+    align-self: flex-end;
+}

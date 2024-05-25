@@ -1,0 +1,54 @@
+Routing -> 
+	Web Browser
+		-> web API
+			window
+			console.log
+			
+			Bluetooth	
+			audio
+			video
+			microphone
+			maps - location
+
+	------------------------->location - React-Router-Dom 
+
+what to use - how to use	 
+function
+goBck -> 5 to 6 -> 1 
+
+Graph DS
+
+URI - > URL
+ftp://ss;
+smpt
+localhost:3000
+address/URL: http://localhost:3000/
+http://127.0.0.1:3000
+http - protocol-----------https - ssl 
+localhost - domain/host - Facebook - Instagram - YouTube/ 127.0.0.1+PORT 
+3000-port
+
+localhost:3000
+
+path
+
+'/' - Home
+localhost:3000/users
+/users - Users
+
+localhost:3000/users/1 -> {path/pathParameter/URL parameters}
+/users/1
+
+/users/profile -> nested routes
+
+/users/#fragement -> seo
+
+goto a route
+currently?
+goback a route
+
+location/history
+stack - 
+
+
+

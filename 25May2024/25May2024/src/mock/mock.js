@@ -1,0 +1,30 @@
+export const usersList = [
+    {
+        id:2324,
+        name:'Hemanth',
+        age:232,
+        gender:'Male',
+        place:'Hyderabad'
+    },
+    {
+        id:9808,
+        name:'Divya',
+        age:2433,
+        gender:'Female',
+        place:'Hyderabad'
+    },
+    {
+        id:4354,
+        name:'Manikanta',
+        age:6565,
+        gender:'Male',
+        place:'Kakinada'
+    },
+    {
+        id:6763,
+        name:'Pranay',
+        age:9776,
+        gender:'Male',
+        place:'Warangal'
+    }
+]
