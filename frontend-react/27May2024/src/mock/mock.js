@@ -1,0 +1,34 @@
+export const usersList = [
+    {
+        id:2324,
+        name:'Hemanth',
+        age:232,
+        gender:'Male',
+        place:'Hyderabad',
+        image:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqKldCzNZ4Au96N2DWUEZmLCDBG8JqWaFPv7940y7qrg&s'
+    },
+    {
+        id:9808,
+        name:'Divya',
+        age:2433,
+        gender:'Female',
+        place:'Hyderabad',
+        image:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbSqbQzG-UR6QMQXjDKKQf5gLoimXXkgORQ2zdmnA6cg&s'
+    },
+    {
+        id:4354,
+        name:'Manikanta',
+        age:6565,
+        gender:'Male',
+        place:'Kakinada',
+        image:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZWpI1nQQv72mfPmWuOOzW_vnfPnEofZhzltQUUH1Urw&s'
+    },
+    {
+        id:6763,
+        name:'Pranay',
+        age:9776,
+        gender:'Male',
+        place:'Warangal',
+        image:'https://i.pinimg.com/280x280_RS/79/dd/11/79dd11a9452a92a1accceec38a45e16a.jpg'
+    }
+]
