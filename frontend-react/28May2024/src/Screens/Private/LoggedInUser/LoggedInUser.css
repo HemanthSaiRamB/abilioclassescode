@@ -1,0 +1,36 @@
+.loggedInUserContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.userGrid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+}
+
+.userDetails {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid;
+    margin: 6px;
+    padding: 8px;
+    border-radius: 10px;
+    box-shadow: 3px 3px rgba(170, 196, 217, 0.941);
+}
+
+img {
+    height: 30vh;
+    width: 30vh;
+}
+
+.userInfo{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+}

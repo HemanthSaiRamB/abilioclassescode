@@ -1,0 +1,23 @@
+.userSrchContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 4px;
+    margin: 20px;
+}
+
+.btnContainer {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.goBackBtn {
+    align-self: flex-start;
+    padding-left: 20px;
+}
+
+.logoutBtn {
+    align-self: flex-end;
+    padding-right: 10px;
+}
